@@ -1,0 +1,106 @@
+NN+XGBoost
+
+D1 [3433455 rows x 37 columns]
+
+Train RMSE: 0.1579, R²: 0.8665
+Val   RMSE: 0.1577, R²: 0.8663
+Test  RMSE: 0.1592, R²: 0.8645
+
+✅ Final Model Performance with XGBoost:
+TRAIN - RMSE: 0.0321, R²: 0.9945
+VAL - RMSE: 0.1522, R²: 0.8755
+TEST - RMSE: 0.1532, R²: 0.8745
+
+D2 [3697855 rows x 37 columns]
+
+Train RMSE: 0.3543, R²: 0.7397
+Val   RMSE: 0.3542, R²: 0.7398
+Test  RMSE: 0.3596, R²: 0.7315
+
+✅ Final Model Performance with XGBoost:
+TRAIN - RMSE: 0.0599, R²: 0.9926
+VAL - RMSE: 0.3566, R²: 0.7364
+TEST - RMSE: 0.3623, R²: 0.7275
+
+
+FCN+XGBoost
+
+D1 [3433455 rows x 37 columns]
+
+Train RMSE: 0.1646, R²: 0.8550
+Val   RMSE: 0.7141, R²: -1.7412
+Test  RMSE: 0.1591, R²: 0.8647
+
+✅ Final Model Performance with XGBoost:
+TRAIN - RMSE: 0.0255, R²: 0.9965
+VAL - RMSE: 0.1539, R²: 0.8726
+TEST - RMSE: 0.1547, R²: 0.8720
+
+D2 [3697855 rows x 37 columns]
+
+Train RMSE: 0.3641, R²: 0.7251
+Val   RMSE: 0.3636, R²: 0.7259
+Test  RMSE: 0.3672, R²: 0.7202
+
+✅ Final Model Performance with XGBoost:
+TRAIN - RMSE: 0.0484, R²: 0.9951
+VAL - RMSE: 0.3593, R²: 0.7324
+TEST - RMSE: 0.3646, R²: 0.7242
+
+
+NN+Random forest
+
+D1 [3433455 rows x 37 columns]
+
+Train RMSE: 0.1603, R²: 0.8625
+Val   RMSE: 0.1601, R²: 0.8621
+Test  RMSE: 0.1614, R²: 0.8608
+
+✅ Final Model Performance:
+TRAIN - RMSE: 0.1120, R²: 0.9329
+VAL - RMSE: 0.1508, R²: 0.8778
+TEST - RMSE: 0.1521, R²: 0.8763
+
+D2 [3697855 rows x 37 columns]
+
+Train RMSE: 0.3557, R²: 0.7376
+Val   RMSE: 0.3557, R²: 0.7377
+Test  RMSE: 0.3608, R²: 0.7298
+
+✅ Final Model Performance:
+TRAIN - RMSE: 0.2716, R²: 0.8470
+VAL - RMSE: 0.3519, R²: 0.7432
+TEST - RMSE: 0.3569, R²: 0.7356
+
+FCN+Random forest
+
+D1 [3433455 rows x 37 columns]
+
+Train RMSE: 0.1573, R²: 0.8675
+Val   RMSE: 0.1583, R²: 0.8653
+Test  RMSE: 0.1584, R²: 0.8658
+
+✅ Final Model Performance:
+TRAIN - RMSE: 0.1170, R²: 0.9268
+VAL - RMSE: 0.1529, R²: 0.8743
+TEST - RMSE: 0.1546, R²: 0.8722
+
+D2 [3697855 rows x 37 columns]
+
+Train RMSE: 0.3646, R²: 0.7243
+Val   RMSE: 0.3638, R²: 0.7256
+Test  RMSE: 0.3676, R²: 0.7195
+
+✅ Final Model Performance:
+TRAIN - RMSE: 0.2798, R²: 0.8377
+VAL - RMSE: 0.3564, R²: 0.7366
+TEST - RMSE: 0.3609, R²: 0.7297
+
+
+
+
+
+
+
+
+
