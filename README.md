@@ -142,31 +142,50 @@ Hybrid approaches consistently outperform standalone models .
 ```
 photoz-hybrid-ensemble/
 │
-├── data/
-│   ├── preprocessing.py
-│   ├── feature_selection.py
+├── Data/
+│   ├── values content loaded
+│   ├── correlation.py
+│   ├── distribution.py
+│   └── preprocessing.ipynb
 │
-├── models/
-│   ├── linear_models.py
-│   ├── tree_models.py
-│   ├── neural_network.py
-│   ├── fcn_model.py
-│   ├── hybrid_nn_rf.py
-│   ├── hybrid_nn_xgb.py
+├── Model/
+│   ├── FCN_xgboost.py
+│   ├── NN_xgboost.py
+│   ├── decision_tree.py
+│   ├── gaussian_process_regression.ipynb
+│   ├── knn.py
+│   ├── linear_models.ipynb
+│   ├── randomforest.py
+│   ├── svr.py
+│   └── xgboost.py
 │
-├── training/
-│   ├── train.py
-│   ├── cross_validation.py
+├── Output/
+│   │
+│   ├── Images/
+│   │   ├── knn_d1.jpeg
+│   │   ├── knn_d2.jpeg
+│   │   ├── randomforest_d1.jpeg
+│   │   ├── randomforest_d2.jpeg
+│   │   ├── redshift_dist.jpeg
+│   │   ├── svr_d1.jpeg
+│   │   ├── svr_d2.jpeg
+│   │   ├── xgboost_d1.jpeg
+│   │   └── xgboost_d2.jpeg
+│   │
+│   └── values/
+│       ├── Hybrid_ensemble model results.txt
+│       ├── knn_d1.txt
+│       ├── knn_d2.txt
+│       ├── randomforest_d1.txt
+│       ├── randomforest_d2.txt
+│       ├── svr_d1.txt
+│       ├── svr_d2.txt
+│       ├── xgboostd1.txt
+│       └── xgboostd2.txt
 │
-├── evaluation/
-│   ├── metrics.py
-│   ├── plots.py
-│
-├── utils/
-│   ├── config.py
-│   ├── seed.py
-│
-└── README.md
+├── LICENSE
+├── README.md
+└── requirements.txt
 ```
 
 ---
