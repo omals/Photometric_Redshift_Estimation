@@ -1,11 +1,10 @@
-# 🌌 Photometric Redshift Estimation using Hybrid Deep Learning and Ensemble Methods
+# On the Performance of Machine Learning Models and Hybrid Ensembles with Neural Embeddings for Photometric Redshift Estimation
 
 **Leveraging Machine Learning and Ensemble Techniques for Reliable Photometric Redshift Estimation**
 
 This repository contains the complete implementation of the research work:
 
 > **Omal S., Dr. Madhu S. Nair**
-> *Leveraging Machine Learning and Ensemble Techniques for Reliable Photometric Redshift Estimation*
 
 The study systematically evaluates classical machine learning models, deep neural networks, and hybrid ensemble architectures for large-scale photometric redshift (photo-z) estimation using SDSS data .
 
