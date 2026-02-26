@@ -1,0 +1,235 @@
+
+🔍 Training XGBoost with n_estimators=100, max_depth=3 rmse = 0.4670484026317216 'r^2 = 0.5472393508846554
+
+🔍 Training XGBoost with n_estimators=100, max_depth=4 rmse = 0.44797614732702185 'r^2 = 0.5834619566900845
+
+🔍 Training XGBoost with n_estimators=100, max_depth=5 rmse = 0.4331866675955803 'r^2 = 0.6105111270966466
+
+🔍 Training XGBoost with n_estimators=100, max_depth=6 rmse = 0.4218388251248886 'r^2 = 0.630650097032214
+
+🔍 Training XGBoost with n_estimators=100, max_depth=7 rmse = 0.4123416575613977 'r^2 = 0.6470937770353535
+
+🔍 Training XGBoost with n_estimators=100, max_depth=8 rmse = 0.40364774331382786 'r^2 = 0.6618184196109427
+
+🔍 Training XGBoost with n_estimators=100, max_depth=9 rmse = 0.39681502627748955 'r^2 = 0.6731706047320951
+
+🔍 Training XGBoost with n_estimators=100, max_depth=10 rmse = 0.3913416548584017 'r^2 = 0.6821245074834367
+
+🔍 Training XGBoost with n_estimators=100, max_depth=11 rmse = 0.3870383240563353 'r^2 = 0.6890770120139902
+
+🔍 Training XGBoost with n_estimators=100, max_depth=12 rmse = 0.38371887317122766 'r^2 = 0.6943874302656393
+
+🔍 Training XGBoost with n_estimators=100, max_depth=14 rmse = 0.3791471766030116 'r^2 = 0.7016262969291552
+
+🔍 Training XGBoost with n_estimators=100, max_depth=16 rmse = 0.37702644223387366 'r^2 = 0.7049548285587299
+
+🔍 Training XGBoost with n_estimators=100, max_depth=18 rmse = 0.3762491465485948 'r^2 = 0.7061701328804719
+
+🔍 Training XGBoost with n_estimators=200, max_depth=3 rmse = 0.4468790719222505 'r^2 = 0.5854996280716418
+
+🔍 Training XGBoost with n_estimators=200, max_depth=4 rmse = 0.4268911241652772 'r^2 = 0.6217498211784499
+
+🔍 Training XGBoost with n_estimators=200, max_depth=5 rmse = 0.4105933006895628 'r^2 = 0.650080125539558
+
+🔍 Training XGBoost with n_estimators=200, max_depth=6 rmse = 0.39865265360440266 'r^2 = 0.6701365397987269
+
+🔍 Training XGBoost with n_estimators=200, max_depth=7 rmse = 0.3891437209154411 'r^2 = 0.6856851165848536
+
+🔍 Training XGBoost with n_estimators=200, max_depth=8 rmse = 0.381967059312447 'r^2 = 0.6971715218505237
+
+🔍 Training XGBoost with n_estimators=200, max_depth=9 rmse = 0.37649183174185624 'r^2 = 0.7057909630880668
+
+🔍 Training XGBoost with n_estimators=200, max_depth=10 rmse = 0.37203427476076056 'r^2 = 0.7127164250324277
+
+🔍 Training XGBoost with n_estimators=200, max_depth=11 rmse = 0.368838937832536 'r^2 = 0.7176300888851705
+
+🔍 Training XGBoost with n_estimators=200, max_depth=12 rmse = 0.3665845609768117 'r^2 = 0.7210712809404117
+
+🔍 Training XGBoost with n_estimators=200, max_depth=14 rmse = 0.3634990369300505 'r^2 = 0.7257469785763957
+
+🔍 Training XGBoost with n_estimators=200, max_depth=16 rmse = 0.36288148567559064 'r^2 = 0.7266780480551945
+
+🔍 Training XGBoost with n_estimators=200, max_depth=18 rmse = 0.363092392941419 'r^2 = 0.7263602454683872
+
+🔍 Training XGBoost with n_estimators=300, max_depth=3 rmse = 0.43997679820118557 'r^2 = 0.5982050799217006
+
+🔍 Training XGBoost with n_estimators=300, max_depth=4 rmse = 0.42134033099845325 'r^2 = 0.6315225153973955
+
+🔍 Training XGBoost with n_estimators=300, max_depth=5 rmse = 0.40602116128452326 'r^2 = 0.6578297636456787
+
+🔍 Training XGBoost with n_estimators=300, max_depth=6 rmse = 0.39394106905536896 'r^2 = 0.6778876249695841
+
+🔍 Training XGBoost with n_estimators=300, max_depth=7 rmse = 0.38446554334001065 'r^2 = 0.693196903441428
+
+🔍 Training XGBoost with n_estimators=300, max_depth=8 rmse = 0.3772046772152589 'r^2 = 0.7046758040936554
+
+🔍 Training XGBoost with n_estimators=300, max_depth=9 rmse = 0.3718758317296056 'r^2 = 0.712961071242847
+
+🔍 Training XGBoost with n_estimators=300, max_depth=10 rmse = 0.36793877734990427 'r^2 = 0.7190066684450718
+
+🔍 Training XGBoost with n_estimators=300, max_depth=11 rmse = 0.36518509663217164 'r^2 = 0.7231968789148921
+
+🔍 Training XGBoost with n_estimators=300, max_depth=12 rmse = 0.3633684646613345 'r^2 = 0.7259439717123146
+
+🔍 Training XGBoost with n_estimators=300, max_depth=14 rmse = 0.36107704018843695 'r^2 = 0.7293895027058683
+
+🔍 Training XGBoost with n_estimators=300, max_depth=16 rmse = 0.36108959296628573 'r^2 = 0.7293706869290422
+
+🔍 Training XGBoost with n_estimators=300, max_depth=18 rmse = 0.36165766328953086 'r^2 = 0.7285185027932599
+
+🔍 Training XGBoost with n_estimators=400, max_depth=3 rmse = 0.4340036274343304 'r^2 = 0.609040644096681
+
+🔍 Training XGBoost with n_estimators=400, max_depth=4 rmse = 0.41657269465707897 'r^2 = 0.6398142798230213
+
+🔍 Training XGBoost with n_estimators=400, max_depth=5 rmse = 0.40225832903102876 'r^2 = 0.6641425531548357
+
+🔍 Training XGBoost with n_estimators=400, max_depth=6 rmse = 0.3905409214735897 'r^2 = 0.6834240017355726
+
+🔍 Training XGBoost with n_estimators=400, max_depth=7 rmse = 0.3816207166754715 'r^2 = 0.6977204428157028
+
+🔍 Training XGBoost with n_estimators=400, max_depth=8 rmse = 0.3748171842048611 'r^2 = 0.7084024443098773
+
+🔍 Training XGBoost with n_estimators=400, max_depth=9 rmse = 0.3698002207092427 'r^2 = 0.716156323248967
+
+🔍 Training XGBoost with n_estimators=400, max_depth=10 rmse = 0.36626705590340114 'r^2 = 0.7215542414392093
+
+🔍 Training XGBoost with n_estimators=400, max_depth=11 rmse = 0.3637470195017845 'r^2 = 0.72537265478911
+
+🔍 Training XGBoost with n_estimators=400, max_depth=12 rmse = 0.3622328684083745 'r^2 = 0.7276542505206975
+
+🔍 Training XGBoost with n_estimators=400, max_depth=14 rmse = 0.3602096259711996 'r^2 = 0.7306881144665485
+
+🔍 Training XGBoost with n_estimators=400, max_depth=16 rmse = 0.3604932476535903 'r^2 = 0.7302638461758848
+
+🔍 Training XGBoost with n_estimators=400, max_depth=18 rmse = 0.36115107177039885 'r^2 = 0.7292785248549607
+
+🔍 Training XGBoost with n_estimators=500, max_depth=3 rmse = 0.4300869462510544 'r^2 = 0.6160652567354821
+
+🔍 Training XGBoost with n_estimators=500, max_depth=4 rmse = 0.41276306710003796 'r^2 = 0.6463720743398266
+
+🔍 Training XGBoost with n_estimators=500, max_depth=5 rmse = 0.3988159920294142 'r^2 = 0.6698661770382308
+
+🔍 Training XGBoost with n_estimators=500, max_depth=6 rmse = 0.387614662409927 'r^2 = 0.6881503323920674
+
+🔍 Training XGBoost with n_estimators=500, max_depth=7 rmse = 0.3794359250493913 'r^2 = 0.7011716568570031
+
+🔍 Training XGBoost with n_estimators=500, max_depth=8 rmse = 0.37304649237803755 'r^2 = 0.7111510365411553
+
+🔍 Training XGBoost with n_estimators=500, max_depth=9 rmse = 0.36837979200703885 'r^2 = 0.7183326625913131
+
+🔍 Training XGBoost with n_estimators=500, max_depth=10 rmse = 0.3650721828640751 'r^2 = 0.7233680252829584
+
+🔍 Training XGBoost with n_estimators=500, max_depth=11 rmse = 0.36288000449217434 'r^2 = 0.726680279302212
+
+🔍 Training XGBoost with n_estimators=500, max_depth=12 rmse = 0.3615435925907083 'r^2 = 0.7286897321264891
+
+🔍 Training XGBoost with n_estimators=500, max_depth=14 rmse = 0.35981742455208143 'r^2 = 0.7312742564979723
+
+🔍 Training XGBoost with n_estimators=500, max_depth=16 rmse = 0.3602297612919784 'r^2 = 0.7306580051503353
+
+🔍 Training XGBoost with n_estimators=500, max_depth=18 rmse = 0.3609749011357253 'r^2 = 0.7295425780193152
+
+🔍 Training XGBoost with n_estimators=600, max_depth=3 rmse = 0.4269441715621165 'r^2 = 0.6216558092259896
+
+🔍 Training XGBoost with n_estimators=600, max_depth=4 rmse = 0.4091355027055388 'r^2 = 0.6525604724809932
+
+🔍 Training XGBoost with n_estimators=600, max_depth=5 rmse = 0.3957258698291728 'r^2 = 0.6749622698580379
+
+🔍 Training XGBoost with n_estimators=600, max_depth=6 rmse = 0.3855172066617204 'r^2 = 0.6915161553954707
+
+🔍 Training XGBoost with n_estimators=600, max_depth=7 rmse = 0.3775371677551735 'r^2 = 0.7041549421657772
+
+🔍 Training XGBoost with n_estimators=600, max_depth=8 rmse = 0.3714044189054224 'r^2 = 0.7136883466096386
+
+🔍 Training XGBoost with n_estimators=600, max_depth=9 rmse = 0.3672417079203349 'r^2 = 0.7200703580111585
+
+🔍 Training XGBoost with n_estimators=600, max_depth=10 rmse = 0.36429289310047236 'r^2 = 0.7245477721360738
+
+🔍 Training XGBoost with n_estimators=600, max_depth=11 rmse = 0.3622890136871558 'r^2 = 0.7275698180221983
+
+🔍 Training XGBoost with n_estimators=600, max_depth=12 rmse = 0.3610873806285639 'r^2 = 0.7293740031232248
+
+🔍 Training XGBoost with n_estimators=600, max_depth=14 rmse = 0.3594747004245653 'r^2 = 0.7317859322974303
+
+🔍 Training XGBoost with n_estimators=600, max_depth=16 rmse = 0.36002614054238025 'r^2 = 0.730962411529466
+
+🔍 Training XGBoost with n_estimators=600, max_depth=18 rmse = 0.36089762314380575 'r^2 = 0.7296583654007154
+
+🔍 Training XGBoost with n_estimators=700, max_depth=3 rmse = 0.42429814576156316 'r^2 = 0.6263309228626
+
+🔍 Training XGBoost with n_estimators=700, max_depth=4 rmse = 0.40652011287189166 'r^2 = 0.6569882740877409
+
+🔍 Training XGBoost with n_estimators=700, max_depth=5 rmse = 0.3929037522750339 'r^2 = 0.6795817497145816
+
+🔍 Training XGBoost with n_estimators=700, max_depth=6 rmse = 0.3835410343390195 'r^2 = 0.6946706437940815
+
+🔍 Training XGBoost with n_estimators=700, max_depth=7 rmse = 0.3759152459897407 'r^2 = 0.7066914173757373
+
+🔍 Training XGBoost with n_estimators=700, max_depth=8 rmse = 0.37019651491115674 'r^2 = 0.7155476385089002
+
+🔍 Training XGBoost with n_estimators=700, max_depth=9 rmse = 0.3663043572245072 'r^2 = 0.72149752367894
+
+🔍 Training XGBoost with n_estimators=700, max_depth=10 rmse = 0.3637275205079613 'r^2 = 0.7254020973032319
+
+🔍 Training XGBoost with n_estimators=700, max_depth=11 rmse = 0.3618193858803721 'r^2 = 0.7282756515447463
+
+🔍 Training XGBoost with n_estimators=700, max_depth=12 rmse = 0.36077344925256943 'r^2 = 0.729844366058404
+
+🔍 Training XGBoost with n_estimators=700, max_depth=14 rmse = 0.35933974481437087 'r^2 = 0.7319872827596894
+
+🔍 Training XGBoost with n_estimators=700, max_depth=16 rmse = 0.35995096260148624 'r^2 = 0.7310747565953308
+
+🔍 Training XGBoost with n_estimators=700, max_depth=18 rmse = 0.3608165286974414 'r^2 = 0.729779844405765
+
+🔍 Training XGBoost with n_estimators=800, max_depth=3 rmse = 0.42213469082558264 'r^2 = 0.6301318124004811
+
+🔍 Training XGBoost with n_estimators=800, max_depth=4 rmse = 0.40470642694839554 'r^2 = 0.660042134094724
+
+🔍 Training XGBoost with n_estimators=800, max_depth=5 rmse = 0.391215332592278 'r^2 = 0.6823296901989951
+
+🔍 Training XGBoost with n_estimators=800, max_depth=6 rmse = 0.3818161973184174 'r^2 = 0.6974106853333284
+
+🔍 Training XGBoost with n_estimators=800, max_depth=7 rmse = 0.37458089338878253 'r^2 = 0.7087699840540025
+
+🔍 Training XGBoost with n_estimators=800, max_depth=8 rmse = 0.36927624782036644 'r^2 = 0.7169601141456035
+
+🔍 Training XGBoost with n_estimators=800, max_depth=9 rmse = 0.36565268879144264 'r^2 = 0.7224875737783709
+
+🔍 Training XGBoost with n_estimators=800, max_depth=10 rmse = 0.3632866788521867 'r^2 = 0.726067325133325
+
+🔍 Training XGBoost with n_estimators=800, max_depth=11 rmse = 0.36149156035932695 'r^2 = 0.728767818769952
+
+🔍 Training XGBoost with n_estimators=800, max_depth=12 rmse = 0.36046389249404137 'r^2 = 0.7303077739081995
+
+🔍 Training XGBoost with n_estimators=800, max_depth=14 rmse = 0.3591789416677969 'r^2 = 0.7322270983990165
+
+🔍 Training XGBoost with n_estimators=800, max_depth=16 rmse = 0.3598600702633572 'r^2 = 0.7312105537486903
+
+🔍 Training XGBoost with n_estimators=800, max_depth=18 rmse = 0.36076154842261127 'r^2 = 0.7298621890065207
+
+🔍 Training XGBoost with n_estimators=900, max_depth=3 rmse = 0.420318022720299 'r^2 = 0.6333084378923255
+
+🔍 Training XGBoost with n_estimators=900, max_depth=4 rmse = 0.40311302294910245 'r^2 = 0.6627138181593445
+
+🔍 Training XGBoost with n_estimators=900, max_depth=5 rmse = 0.38956074980593247 'r^2 = 0.6850110796384383
+
+🔍 Training XGBoost with n_estimators=900, max_depth=6 rmse = 0.38041512326563337 'r^2 = 0.6996273131156925
+
+🔍 Training XGBoost with n_estimators=900, max_depth=7 rmse = 0.3735109562007406 'r^2 = 0.710431322431553
+
+🔍 Training XGBoost with n_estimators=900, max_depth=8 rmse = 0.3685790445289793 'r^2 = 0.7180278787422649
+
+🔍 Training XGBoost with n_estimators=900, max_depth=9 rmse = 0.3651379980461388 'r^2 = 0.7232682739144565
+
+🔍 Training XGBoost with n_estimators=900, max_depth=10 rmse = 0.3629100166788779 'r^2 = 0.7266350673224977
+
+🔍 Training XGBoost with n_estimators=900, max_depth=11 rmse = 0.36120359153321324 'r^2 = 0.7291997807359186
+
+🔍 Training XGBoost with n_estimators=900, max_depth=12 rmse = 0.3602890943513781 'r^2 = 0.7305692717785053
+
+🔍 Training XGBoost with n_estimators=900, max_depth=14 rmse = 0.35908883595725616 'r^2 = 0.7323614316704603
+
+🔍 Training XGBoost with n_estimators=900, max_depth=16 rmse = 0.35976598738071136 'r^2 = 0.7313510815942013
+
+🔍 Training XGBoost with n_estimators=900, max_depth=18 rmse = 0.3607091315352259 'r^2 = 0.7299406827074468
+
